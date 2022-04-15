@@ -1,2 +1,2 @@
-# inheritanceSample
-Posted on my web site Inheritance article's C# codes.
+# InheritanceSample
+Posted on my website Inheritance article's C# codes
